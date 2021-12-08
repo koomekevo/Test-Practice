@@ -1,0 +1,25 @@
+{
+  "name": "test-practice",
+  "version": "1.0.0",
+  "description": "Practical tests for JavaScript function",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koomekevo/Test-Practice.git"
+  },
+  "keywords": [
+    "stringLength"
+  ],
+  "author": "Kevin Koome",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koomekevo/Test-Practice/issues"
+  },
+  "homepage": "https://github.com/koomekevo/Test-Practice#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
